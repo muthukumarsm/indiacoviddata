@@ -76,7 +76,7 @@
                         "totalconfirmed": feat[j].totalconfirmed,
                         "totaldeceased": feat[j].totaldeceased,
                         "totalrecovered":feat[j].totalrecovered                        
-                    });       
+                    });        
                 } 
             
             table.appendRows(tableData);
