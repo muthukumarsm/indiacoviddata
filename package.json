@@ -1,0 +1,16 @@
+{
+  "name": "msm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d coviddata"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://muthukumarsm.github.io/indiacoviddata",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
