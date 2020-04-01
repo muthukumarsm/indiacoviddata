@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://muthukumarsm.github.io/indiacoviddata",
+  "homepage": "https://muthukumarsm.github.com/indiacoviddata",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
